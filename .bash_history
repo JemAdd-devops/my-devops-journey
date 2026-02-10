@@ -518,3 +518,9 @@ git push -u origin main
 git pull origin main --rebase
 git push -u origin main
 tmux
+./push_it.sh
+sudo apt update
+sudo apt upgrade -y
+sudo apt install neofetch -y
+neofetch
+ip a
