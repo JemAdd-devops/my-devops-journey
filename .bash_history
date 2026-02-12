@@ -524,3 +524,137 @@ sudo apt upgrade -y
 sudo apt install neofetch -y
 neofetch
 ip a
+./push_it.sh
+git pull origin main --rebase
+./push_it.sh
+sudo adduser alice
+echo "Secret data" > /tmp/private.txt
+chmod 600 /tmp/private.txt
+sudo -u alice cat /tmp/private.txt
+chmod 644 /tmp/private.txt
+sudo -u alice cat /tmp/private.txt
+rm /tmp/private.txt
+sudo deluser --remove-home alice
+which vi
+ls -la
+ls -la /etc/alternatives/vi
+man vim
+top
+exit
+exir
+exit
+htop
+እሺት
+exit
+top
+exit
+tmux
+clear
+busybox vi hello.txt
+ls
+rm hello.txt 
+ls
+exit
+mkdir weekly_report
+cd weekly_report/
+touch summary.txt
+ls
+sudo chmod 600 summary.txt 
+cat summary.txt 
+ls
+sleep 500 &
+ps
+kill 3370
+cat
+ls /nonexistent
+ls /etc > listing.txt
+cat listing.txt 
+clear
+echo "lesson 1" > file.txt
+echo "lesson 2" >> file.txt
+cat file.txt 
+echo "lesson 32" >> file.txt
+cat file.txt 
+echo "lesson 11" > file.txt
+ls
+cat file.txt 
+echo "lesson 32" >> file.txt
+cat file.txt 
+wc -l < /etc/passwd
+ls /nonexistent 2> errors.txt
+cat errors.txt 
+ls /etc /nonexistent &> all-output.txt
+ls /ect > /dev/null
+ls /etc > /dev/null
+command 2>/dev/null
+ls /etc | head -5
+cat /etc/passwd | grep bash | wc -l
+history | grep ssh
+ls | wc -l
+du -h /var/log/* | sort -h | tail -10
+ps aux | grep nginx
+[200~echo "Charlie" > names.txt
+echo "Alice" >> names.txt
+echo "Bob" >> names.txt
+echo "Alice" >> names.txt
+echo "Bob" >> names.txt
+echo "Alice" >> names.txt
+sort names.txt
+echo "charlie" >> names.txt
+echo "Jemal" >> names.txt
+sort names.txt
+du -h /var/log/* 2>/dev/null | sort -h
+sort names.txt | uniq
+sort names.txt | uniq -c
+cut -d: -f1 /etc/passwd
+cut -d: -f1,3 /etc/passwd
+echo "hello world" | cut -c1-5
+echo "hello world" | cut -c1-8
+echo "hello world" | cut -c1-5
+echo "HELLO" | tr 'A-Z' 'a-z'
+echo "hello world" | tr ' ' '\n'
+echo "abc123" | tr -d '0-9'
+echo "abc123" | tr -d 'a-z'
+ls /etc | tee listing.txt
+ls /etc | tee listing.txt | head -5
+ip a
+cat names.txt | xargs echo "Hello:"
+ls /etc | tee listing.txt | head -5
+ls
+cat listing.txt | xargs echo "Hello:"
+cat listing.txt | xargs -n 1 echo "Hello:"
+sort listing.txt | uniq | xargs touch
+ls
+exit
+git pull origin main --rebase
+exit
+ip a
+ls -l weekly_report/
+ps
+kill 1312
+ps
+ls -l weekly_report/
+ls
+ps
+ls -l weekly_report/
+tmux
+ls -al
+ls
+ps
+ls weekly_report/
+ls -l weekly_report/
+starsship
+ls
+curl -sS https://starship.rs/install.sh | sh
+echo 'eval "$(starship init bash)"' >> ~/.bashrc
+source ~/.bashrc
+starship
+top
+htop
+git pull origin main --rebase
+ls -al
+ls -lah
+ls
+ls -al
+ls
+ls /etc
