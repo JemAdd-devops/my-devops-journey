@@ -11,10 +11,12 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:wq
+|2,0,1771104445,,"wq"
+:q
+|2,0,1771009871,,"q"
 :q!
 |2,0,1770443588,,"q!"
-:wq
-|2,0,1770407281,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,50 +27,287 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+""1	LINE	0
+	# ከ 1 እስከ 5 ያሉ ቁጥሮችን በመጠቀም ፋይል ይፈጥራል
+|3,1,1,1,1,0,1771103496,"# ከ 1 እስከ 5 ያሉ ቁጥሮችን በመጠቀም ፋይል ይፈጥራል"
 
 # File marks:
-'0  5  20  ~/.tmux.conf
-|4,48,5,20,1770407281,"~/.tmux.conf"
-'1  5  20  ~/.tmux.conf
-|4,49,5,20,1770330769,"~/.tmux.conf"
-'2  1  18  ~/hello.txt
-|4,50,1,18,1770147322,"~/hello.txt"
+'0  8  23  ~/my-devops-journey/create_folders.sh
+|4,48,8,23,1771104445,"~/my-devops-journey/create_folders.sh"
+'1  13  33  ~/my-devops-journey/create_folders.sh
+|4,49,13,33,1771104183,"~/my-devops-journey/create_folders.sh"
+'2  12  33  ~/my-devops-journey/create_folders.sh
+|4,50,12,33,1771104183,"~/my-devops-journey/create_folders.sh"
+'3  12  2  ~/my-devops-journey/countdown.sh
+|4,51,12,2,1771103732,"~/my-devops-journey/countdown.sh"
+'4  5  0  ~/my-devops-journey/create_files.sh
+|4,52,5,0,1771103511,"~/my-devops-journey/create_files.sh"
+'5  16  30  ~/devops_journey/check_status.sh
+|4,53,16,30,1771010810,"~/devops_journey/check_status.sh"
+'6  12  0  ~/devops_journey/check_ram.sh
+|4,54,12,0,1771010701,"~/devops_journey/check_ram.sh"
+'7  12  0  ~/devops_journey/check_ram.sh
+|4,55,12,0,1771010673,"~/devops_journey/check_ram.sh"
+'8  12  1  ~/devops_journey/check_ram.sh
+|4,56,12,1,1771009871,"~/devops_journey/check_ram.sh"
+'9  12  1  ~/devops_journey/check_ram.sh
+|4,57,12,1,1771009871,"~/devops_journey/check_ram.sh"
 
 # Jumplist (newest first):
--'  5  20  ~/.tmux.conf
-|4,39,5,20,1770407281,"~/.tmux.conf"
--'  5  20  ~/.tmux.conf
-|4,39,5,20,1770407281,"~/.tmux.conf"
--'  5  20  ~/.tmux.conf
-|4,39,5,20,1770330769,"~/.tmux.conf"
--'  5  20  ~/.tmux.conf
-|4,39,5,20,1770330769,"~/.tmux.conf"
--'  1  0  ~/.tmux.conf
-|4,39,1,0,1770330614,"~/.tmux.conf"
--'  1  0  ~/.tmux.conf
-|4,39,1,0,1770330614,"~/.tmux.conf"
--'  1  0  ~/.tmux.conf
-|4,39,1,0,1770330614,"~/.tmux.conf"
--'  1  0  ~/.tmux.conf
-|4,39,1,0,1770330614,"~/.tmux.conf"
--'  1  18  ~/hello.txt
-|4,39,1,18,1770147322,"~/hello.txt"
--'  1  18  ~/hello.txt
-|4,39,1,18,1770147322,"~/hello.txt"
--'  1  18  ~/hello.txt
-|4,39,1,18,1770147322,"~/hello.txt"
--'  1  18  ~/hello.txt
-|4,39,1,18,1770147322,"~/hello.txt"
--'  1  18  ~/hello.txt
-|4,39,1,18,1770147322,"~/hello.txt"
--'  1  18  ~/hello.txt
-|4,39,1,18,1770147322,"~/hello.txt"
--'  1  18  ~/hello.txt
-|4,39,1,18,1770147322,"~/hello.txt"
--'  1  18  ~/hello.txt
-|4,39,1,18,1770147322,"~/hello.txt"
+-'  8  23  ~/my-devops-journey/create_folders.sh
+|4,39,8,23,1771104445,"~/my-devops-journey/create_folders.sh"
+-'  13  33  ~/my-devops-journey/create_folders.sh
+|4,39,13,33,1771104373,"~/my-devops-journey/create_folders.sh"
+-'  12  33  ~/my-devops-journey/create_folders.sh
+|4,39,12,33,1771104183,"~/my-devops-journey/create_folders.sh"
+-'  1  0  ~/my-devops-journey/create_folders.sh
+|4,39,1,0,1771103964,"~/my-devops-journey/create_folders.sh"
+-'  1  0  ~/my-devops-journey/create_folders.sh
+|4,39,1,0,1771103964,"~/my-devops-journey/create_folders.sh"
+-'  12  2  ~/my-devops-journey/countdown.sh
+|4,39,12,2,1771103732,"~/my-devops-journey/countdown.sh"
+-'  12  2  ~/my-devops-journey/countdown.sh
+|4,39,12,2,1771103732,"~/my-devops-journey/countdown.sh"
+-'  12  2  ~/my-devops-journey/countdown.sh
+|4,39,12,2,1771103732,"~/my-devops-journey/countdown.sh"
+-'  12  2  ~/my-devops-journey/countdown.sh
+|4,39,12,2,1771103732,"~/my-devops-journey/countdown.sh"
+-'  1  0  ~/my-devops-journey/countdown.sh
+|4,39,1,0,1771103652,"~/my-devops-journey/countdown.sh"
+-'  1  0  ~/my-devops-journey/countdown.sh
+|4,39,1,0,1771103652,"~/my-devops-journey/countdown.sh"
+-'  1  0  ~/my-devops-journey/countdown.sh
+|4,39,1,0,1771103652,"~/my-devops-journey/countdown.sh"
+-'  1  0  ~/my-devops-journey/countdown.sh
+|4,39,1,0,1771103652,"~/my-devops-journey/countdown.sh"
+-'  5  0  ~/my-devops-journey/create_files.sh
+|4,39,5,0,1771103511,"~/my-devops-journey/create_files.sh"
+-'  5  0  ~/my-devops-journey/create_files.sh
+|4,39,5,0,1771103511,"~/my-devops-journey/create_files.sh"
+-'  5  0  ~/my-devops-journey/create_files.sh
+|4,39,5,0,1771103511,"~/my-devops-journey/create_files.sh"
+-'  5  0  ~/my-devops-journey/create_files.sh
+|4,39,5,0,1771103511,"~/my-devops-journey/create_files.sh"
+-'  5  0  ~/my-devops-journey/create_files.sh
+|4,39,5,0,1771103511,"~/my-devops-journey/create_files.sh"
+-'  5  0  ~/my-devops-journey/create_files.sh
+|4,39,5,0,1771103511,"~/my-devops-journey/create_files.sh"
+-'  5  0  ~/my-devops-journey/create_files.sh
+|4,39,5,0,1771103511,"~/my-devops-journey/create_files.sh"
+-'  5  0  ~/my-devops-journey/create_files.sh
+|4,39,5,0,1771103511,"~/my-devops-journey/create_files.sh"
+-'  1  0  ~/my-devops-journey/create_files.sh
+|4,39,1,0,1771103460,"~/my-devops-journey/create_files.sh"
+-'  1  0  ~/my-devops-journey/create_files.sh
+|4,39,1,0,1771103460,"~/my-devops-journey/create_files.sh"
+-'  1  0  ~/my-devops-journey/create_files.sh
+|4,39,1,0,1771103460,"~/my-devops-journey/create_files.sh"
+-'  1  0  ~/my-devops-journey/create_files.sh
+|4,39,1,0,1771103460,"~/my-devops-journey/create_files.sh"
+-'  1  0  ~/my-devops-journey/create_files.sh
+|4,39,1,0,1771103460,"~/my-devops-journey/create_files.sh"
+-'  1  0  ~/my-devops-journey/create_files.sh
+|4,39,1,0,1771103460,"~/my-devops-journey/create_files.sh"
+-'  1  0  ~/my-devops-journey/create_files.sh
+|4,39,1,0,1771103460,"~/my-devops-journey/create_files.sh"
+-'  1  0  ~/my-devops-journey/create_files.sh
+|4,39,1,0,1771103460,"~/my-devops-journey/create_files.sh"
+-'  16  30  ~/devops_journey/check_status.sh
+|4,39,16,30,1771010810,"~/devops_journey/check_status.sh"
+-'  16  30  ~/devops_journey/check_status.sh
+|4,39,16,30,1771010810,"~/devops_journey/check_status.sh"
+-'  16  30  ~/devops_journey/check_status.sh
+|4,39,16,30,1771010810,"~/devops_journey/check_status.sh"
+-'  16  30  ~/devops_journey/check_status.sh
+|4,39,16,30,1771010810,"~/devops_journey/check_status.sh"
+-'  16  30  ~/devops_journey/check_status.sh
+|4,39,16,30,1771010810,"~/devops_journey/check_status.sh"
+-'  16  30  ~/devops_journey/check_status.sh
+|4,39,16,30,1771010810,"~/devops_journey/check_status.sh"
+-'  16  30  ~/devops_journey/check_status.sh
+|4,39,16,30,1771010810,"~/devops_journey/check_status.sh"
+-'  16  30  ~/devops_journey/check_status.sh
+|4,39,16,30,1771010810,"~/devops_journey/check_status.sh"
+-'  16  30  ~/devops_journey/check_status.sh
+|4,39,16,30,1771010810,"~/devops_journey/check_status.sh"
+-'  16  30  ~/devops_journey/check_status.sh
+|4,39,16,30,1771010810,"~/devops_journey/check_status.sh"
+-'  16  30  ~/devops_journey/check_status.sh
+|4,39,16,30,1771010810,"~/devops_journey/check_status.sh"
+-'  16  30  ~/devops_journey/check_status.sh
+|4,39,16,30,1771010810,"~/devops_journey/check_status.sh"
+-'  16  30  ~/devops_journey/check_status.sh
+|4,39,16,30,1771010810,"~/devops_journey/check_status.sh"
+-'  16  30  ~/devops_journey/check_status.sh
+|4,39,16,30,1771010810,"~/devops_journey/check_status.sh"
+-'  16  30  ~/devops_journey/check_status.sh
+|4,39,16,30,1771010810,"~/devops_journey/check_status.sh"
+-'  16  30  ~/devops_journey/check_status.sh
+|4,39,16,30,1771010810,"~/devops_journey/check_status.sh"
+-'  12  0  ~/devops_journey/check_ram.sh
+|4,39,12,0,1771010701,"~/devops_journey/check_ram.sh"
+-'  12  0  ~/devops_journey/check_ram.sh
+|4,39,12,0,1771010701,"~/devops_journey/check_ram.sh"
+-'  12  0  ~/devops_journey/check_ram.sh
+|4,39,12,0,1771010701,"~/devops_journey/check_ram.sh"
+-'  12  0  ~/devops_journey/check_ram.sh
+|4,39,12,0,1771010701,"~/devops_journey/check_ram.sh"
+-'  12  0  ~/devops_journey/check_ram.sh
+|4,39,12,0,1771010701,"~/devops_journey/check_ram.sh"
+-'  12  0  ~/devops_journey/check_ram.sh
+|4,39,12,0,1771010701,"~/devops_journey/check_ram.sh"
+-'  12  0  ~/devops_journey/check_ram.sh
+|4,39,12,0,1771010701,"~/devops_journey/check_ram.sh"
+-'  12  0  ~/devops_journey/check_ram.sh
+|4,39,12,0,1771010701,"~/devops_journey/check_ram.sh"
+-'  12  0  ~/devops_journey/check_ram.sh
+|4,39,12,0,1771010701,"~/devops_journey/check_ram.sh"
+-'  12  0  ~/devops_journey/check_ram.sh
+|4,39,12,0,1771010701,"~/devops_journey/check_ram.sh"
+-'  12  0  ~/devops_journey/check_ram.sh
+|4,39,12,0,1771010701,"~/devops_journey/check_ram.sh"
+-'  12  0  ~/devops_journey/check_ram.sh
+|4,39,12,0,1771010701,"~/devops_journey/check_ram.sh"
+-'  12  0  ~/devops_journey/check_ram.sh
+|4,39,12,0,1771010701,"~/devops_journey/check_ram.sh"
+-'  12  0  ~/devops_journey/check_ram.sh
+|4,39,12,0,1771010701,"~/devops_journey/check_ram.sh"
+-'  12  0  ~/devops_journey/check_ram.sh
+|4,39,12,0,1771010701,"~/devops_journey/check_ram.sh"
+-'  12  0  ~/devops_journey/check_ram.sh
+|4,39,12,0,1771010701,"~/devops_journey/check_ram.sh"
+-'  12  0  ~/devops_journey/check_ram.sh
+|4,39,12,0,1771010673,"~/devops_journey/check_ram.sh"
+-'  12  0  ~/devops_journey/check_ram.sh
+|4,39,12,0,1771010673,"~/devops_journey/check_ram.sh"
+-'  12  0  ~/devops_journey/check_ram.sh
+|4,39,12,0,1771010673,"~/devops_journey/check_ram.sh"
+-'  12  0  ~/devops_journey/check_ram.sh
+|4,39,12,0,1771010673,"~/devops_journey/check_ram.sh"
+-'  12  0  ~/devops_journey/check_ram.sh
+|4,39,12,0,1771010673,"~/devops_journey/check_ram.sh"
+-'  12  0  ~/devops_journey/check_ram.sh
+|4,39,12,0,1771010673,"~/devops_journey/check_ram.sh"
+-'  12  0  ~/devops_journey/check_ram.sh
+|4,39,12,0,1771010673,"~/devops_journey/check_ram.sh"
+-'  12  0  ~/devops_journey/check_ram.sh
+|4,39,12,0,1771010673,"~/devops_journey/check_ram.sh"
+-'  12  0  ~/devops_journey/check_ram.sh
+|4,39,12,0,1771010673,"~/devops_journey/check_ram.sh"
+-'  12  0  ~/devops_journey/check_ram.sh
+|4,39,12,0,1771010673,"~/devops_journey/check_ram.sh"
+-'  12  0  ~/devops_journey/check_ram.sh
+|4,39,12,0,1771010673,"~/devops_journey/check_ram.sh"
+-'  12  0  ~/devops_journey/check_ram.sh
+|4,39,12,0,1771010673,"~/devops_journey/check_ram.sh"
+-'  12  0  ~/devops_journey/check_ram.sh
+|4,39,12,0,1771010673,"~/devops_journey/check_ram.sh"
+-'  12  0  ~/devops_journey/check_ram.sh
+|4,39,12,0,1771010673,"~/devops_journey/check_ram.sh"
+-'  12  0  ~/devops_journey/check_ram.sh
+|4,39,12,0,1771010673,"~/devops_journey/check_ram.sh"
+-'  12  0  ~/devops_journey/check_ram.sh
+|4,39,12,0,1771010673,"~/devops_journey/check_ram.sh"
+-'  12  1  ~/devops_journey/check_ram.sh
+|4,39,12,1,1771009871,"~/devops_journey/check_ram.sh"
+-'  12  1  ~/devops_journey/check_ram.sh
+|4,39,12,1,1771009871,"~/devops_journey/check_ram.sh"
+-'  12  1  ~/devops_journey/check_ram.sh
+|4,39,12,1,1771009871,"~/devops_journey/check_ram.sh"
+-'  12  1  ~/devops_journey/check_ram.sh
+|4,39,12,1,1771009871,"~/devops_journey/check_ram.sh"
+-'  12  1  ~/devops_journey/check_ram.sh
+|4,39,12,1,1771009871,"~/devops_journey/check_ram.sh"
+-'  12  1  ~/devops_journey/check_ram.sh
+|4,39,12,1,1771009871,"~/devops_journey/check_ram.sh"
+-'  12  1  ~/devops_journey/check_ram.sh
+|4,39,12,1,1771009871,"~/devops_journey/check_ram.sh"
+-'  12  1  ~/devops_journey/check_ram.sh
+|4,39,12,1,1771009871,"~/devops_journey/check_ram.sh"
+-'  12  1  ~/devops_journey/check_ram.sh
+|4,39,12,1,1771009871,"~/devops_journey/check_ram.sh"
+-'  12  1  ~/devops_journey/check_ram.sh
+|4,39,12,1,1771009871,"~/devops_journey/check_ram.sh"
+-'  12  1  ~/devops_journey/check_ram.sh
+|4,39,12,1,1771009871,"~/devops_journey/check_ram.sh"
+-'  12  1  ~/devops_journey/check_ram.sh
+|4,39,12,1,1771009871,"~/devops_journey/check_ram.sh"
+-'  12  1  ~/devops_journey/check_ram.sh
+|4,39,12,1,1771009871,"~/devops_journey/check_ram.sh"
+-'  12  1  ~/devops_journey/check_ram.sh
+|4,39,12,1,1771009871,"~/devops_journey/check_ram.sh"
+-'  12  1  ~/devops_journey/check_ram.sh
+|4,39,12,1,1771009871,"~/devops_journey/check_ram.sh"
+-'  12  1  ~/devops_journey/check_ram.sh
+|4,39,12,1,1771009871,"~/devops_journey/check_ram.sh"
+-'  12  1  ~/devops_journey/check_ram.sh
+|4,39,12,1,1771009871,"~/devops_journey/check_ram.sh"
+-'  12  1  ~/devops_journey/check_ram.sh
+|4,39,12,1,1771009871,"~/devops_journey/check_ram.sh"
+-'  12  1  ~/devops_journey/check_ram.sh
+|4,39,12,1,1771009871,"~/devops_journey/check_ram.sh"
+-'  12  1  ~/devops_journey/check_ram.sh
+|4,39,12,1,1771009871,"~/devops_journey/check_ram.sh"
+-'  12  1  ~/devops_journey/check_ram.sh
+|4,39,12,1,1771009871,"~/devops_journey/check_ram.sh"
+-'  12  1  ~/devops_journey/check_ram.sh
+|4,39,12,1,1771009871,"~/devops_journey/check_ram.sh"
+-'  12  1  ~/devops_journey/check_ram.sh
+|4,39,12,1,1771009871,"~/devops_journey/check_ram.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/my-devops-journey/create_folders.sh
+	*	1771104442	0
+	"	8	23
+	^	8	24
+	.	8	24
+	+	13	45
+	+	3	34
+	+	6	15
+	+	10	23
+	+	13	34
+	+	9	2
+	+	8	24
+
+> ~/my-devops-journey/countdown.sh
+	*	1771103726	0
+	"	12	2
+	^	12	3
+	.	16	27
+	+	16	27
+
+> ~/my-devops-journey/create_files.sh
+	*	1771103496	0
+	"	5	0
+	^	11	46
+	.	5	0
+	+	11	45
+	+	5	0
+
+> ~/devops_journey/check_status.sh
+	*	1771010805	0
+	"	16	30
+	^	16	31
+	.	16	31
+	+	16	31
+
+> ~/devops_journey/check_ram.sh
+	*	1771010697	0
+	"	12	0
+	^	12	0
+	.	4	10
+	+	12	1
+	+	4	10
+
+> ~/first_script.sh
+	*	1770926715	0
+	"	9	25
+	^	9	26
+	.	9	26
+	+	3	16
+	+	4	46
+	+	9	26
 
 > ~/.tmux.conf
 	*	1770407274	0

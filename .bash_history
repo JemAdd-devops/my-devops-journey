@@ -658,3 +658,189 @@ ls
 ls -al
 ls
 ls /etc
+nano push_it.sh
+git push -u origin main
+git pull origin main --rebase
+git add .
+git commit -m "Day 7: Finalizing weekly challenge and reports"
+git pull origin main --rebase
+git push origin main
+nano first_script.sh
+chmod +x first_script.sh
+./first_script.sh
+ls
+ls dir
+./first_script.sh
+vim first_script.sh
+./first_script.sh
+ls
+git push origin main
+cd ~/my-devops-journey
+cd ~
+pwd
+ls
+cd devops_journey/
+ls
+cd ~
+pwd
+cd devops_journey/
+ls
+cd ~
+ls
+cd devops_journey/
+ls -al
+mv ~/first_script.sh ~/day8_log.txt .
+cd ~
+mv ~/first_script.sh ~/day8_log.txt .
+ls
+cd devops_notes/
+ls
+cd ..
+pwd
+cd devops_journey/
+cd ..
+pwd
+mv ~/first_script.sh ~/day8_log.txt .
+find ~ -name "first_script.sh"
+cd devops_journey/
+ls
+cd ..
+pwd
+mv /home/user/devops_journey/first_script.sh .
+mv /home/user/devops_journey/day8_log.txt .
+find ~ -name "day8_log.txt"
+cd ~/my-devops-journey
+cd devops_journey/
+pwd
+vim check_status.sh
+chmod +x check_file.sh
+./check_file.sh
+chmod +x check_status.sh 
+./check_status.sh 
+ls
+vim check_ram.sh
+chmod +x check_ram.sh
+./check_ram.sh 
+vim check_ram.sh
+./check_ram.sh 
+ትሙሽ
+tmux
+pwd
+cd devops_journey/
+git add .
+git push origin main
+git config --global --unset credential.helper
+git config --local --unset credential.helper
+git config --global --unset user.name
+git config --global --unset user.email
+git config --local credential.helper ""
+git remote set-url origin https://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@github.com/jemsAdd/my-devops-journey.git
+git add .
+git push origin main
+git credential-cache exit
+git push origin main
+git remote set-url origin https://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@github.com/Jems-FinOps/my-devops-journey.git
+git config --global user.name "Jems-FinOps"
+git config --global user.email "jemjems035@gmail.com"
+git push origin main
+git pull origin main --rebase
+git push origin main
+ls
+ls -al
+cd ~
+pwd
+ls
+cd ..
+mv devops_journey my-devops-journey
+cd my-devops-journey
+mv devops_journey my-devops-journey
+cd ~
+pwd
+mv devops_journey my-devops-journey
+cd my-devops-journey
+mv ../first_script.sh ../push_it.sh ../weekly_report .
+ls
+cd ..
+pwd
+ls
+cd my-devops-journey/
+ls
+cd ~
+pwd
+sudo mv /etc/devops_journey /etc/first_script.sh /etc/push_it.sh /etc/weekly_report /etc/check_ram.sh /etc/check_status.sh .
+ls
+cd my-devops-journey/
+ls
+cd ~
+sudo mv /etc/devops_journey /etc/first_script.sh /etc/push_it.sh /etc/weekly_report /etc/check_ram.sh /etc/check_status.sh .
+sudo mv devops_journey first_script.sh push_it.sh weekly_report check_ram.sh check_status.sh 
+sudo mv my-devops-journey/ first_script.sh push_it.sh weekly_report check_ram.sh check_status.sh 
+ls
+cd my-devops-journey/
+ls
+cd devops_journey/
+ls
+cd ..
+ls
+cd~
+cd ~
+sudo mv devops_journey first_script.sh push_it.sh weekly_report check_ram.sh check_status.sh ~
+cd my-devops-journey/
+sudo mv devops_journey first_script.sh push_it.sh weekly_report check_ram.sh check_status.sh ~
+sudo mv devops_journey first_script.sh push_it.sh check_ram.sh check_status.sh ~
+find / -name "check_ram.sh" 2>/dev/null
+cd /home/user/
+pwd
+ls
+mv check_ram.sh check_status.sh first_script.sh push_it.sh devops_journey my-devops-journey/
+cd my-devops-journey/
+ls
+cd ..
+ls
+cd my-devops-journey/
+ls
+mkdir ~/clean-devops-journey
+cd ~/my-devops-journey
+mv check_ram.sh check_status.sh first_script.sh push_it.sh loop_test.sh weekly_report ~/clean-devops-journey/
+mv check_ram.sh check_status.sh first_script.sh push_it.sh weekly_report ~/clean-devops-journey/
+cd ~
+rm -rf ~/my-devops-journey
+mv ~/clean-devops-journey ~/my-devops-journey
+cd ~/my-devops-journey
+ls
+clear
+tmux
+vim create_files.sh
+chmod +x create_files.sh
+./create_files.sh
+ls
+./countdown.sh 
+./create_folders.sh 
+./create_files.sh
+ls
+./countdown.sh 
+./create_folders.sh 
+ls
+./create_files.sh
+./countdown.sh 
+ls
+for file in *.sh *.txt weekly_report; do   echo "Adding $file to Git...";   git add "$file"; done
+git commit -m "Day 10: Bulk upload using For Loop and Clean Repository"
+git push origin main
+git pull
+git pull origin main --rebase
+for file in *.sh *.txt weekly_report; do   echo "Adding $file to Git...";   git add "$file"; done
+git commit -m "Day 10: Bulk upload using For Loop and Clean Repository"
+git add .
+git commit -m "Day 10: Bulk upload using For Loop and Clean Repository"
+for file in *.sh *.txt weekly_report; do   echo "Adding $file to Git...";   git add "$file"; done
+git commit -m "Day 10: Bulk upload using For Loop and Clean Repository"
+git push origin main
+ip addr
+vim countdown.sh
+chmod +x countdown.sh
+./countdown.sh
+vim create_folders.sh
+chmod +x create_folders.sh
+ls
+vim create_folders.sh
