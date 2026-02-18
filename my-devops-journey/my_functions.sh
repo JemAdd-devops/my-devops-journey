@@ -15,7 +15,13 @@ greet_user() {
     echo "Hey, $1! what i can help you?"
 }
 
+check_ram() {
+    echo "--- RAM Usage ---"
+    free -h
+    echo "-----------------"
+}
 greet_user "John"
 # Calling the functions
 say_hello
 show_system_info
+
